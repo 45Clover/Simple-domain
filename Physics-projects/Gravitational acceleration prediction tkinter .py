@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-#100% chat gpt 
+
 
 class Inputs_Numbers:
     def __init__(self, root):
