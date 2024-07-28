@@ -1,6 +1,6 @@
 # ok so Val flexed on me so i must flex right back .
 # this code should based on my text to her ,use math to calculate the gravity of a planet given the mass and radius in SI units 
-#90% chatgbt
+
 import math 
 
 class Inputs_Numbers:
