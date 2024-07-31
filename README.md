@@ -1,3 +1,3 @@
-# Python=dumbstuff
-A list of the projects i worked on when i began my python journey
+# Python-dumbstuff
+A list of the projects I worked on when I began my Python journey
 
