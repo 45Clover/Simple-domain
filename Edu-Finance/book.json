@@ -1,0 +1,42 @@
+{
+  "title": "Stock Market Glossary",
+  "author": "45Clover",
+  "description": "A comprehensive glossary of stock market and trading terms.",
+  "structure": {
+    "readme": "gitbook_readme.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "-sharing",
+    "panels@git+https://github.com/lhcb/gitbook-plugin-panels.git#master",
+    "katex-auto-render@git+https://github.com/lhcb/gitbook-plugin-katex-auto-render.git#master",
+    "replace",
+    "collapsible-menu",
+    "otherlink",
+    "highlight",
+    "search",
+    "toggle-chapters"
+  ],
+  "pluginsConfig": {
+    "replace": {
+      "substitutes": [
+        {"pattern": "«([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1$2]($1.md#$1$2)"},
+        {"pattern": "«([^»]+):([^»^:])([^»^:]+)»", "flags": "g", "substitute": "[$1]($2.md#$2$3)"}
+      ]
+    },
+    "katex-auto-render": {
+      "delimiters": [
+        {"left": "$$", "right": "$$", "display": true},
+        {"left": "\\(", "right": "\\)", "display": false}
+      ]
+    }
+  },
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "links": {
+    "website": 
+    "stuff"
+  }
+}
+
