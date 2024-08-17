@@ -1,6 +1,6 @@
-# LHCb Glossary
+# Finance Glossary
 
-Glossary of HEP and LHCb-specific terms and concepts.
+Glossary of Finance specific terms and concepts.
 
 * [**A**](glossary/A.md)
 * [**B**](glossary/B.md)
