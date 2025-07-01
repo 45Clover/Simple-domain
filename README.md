@@ -18,11 +18,10 @@
 >  
 > 🧠 Topics: `Calculus`, `Linear Algebra`, `Logic`, `Proofs`, `Statistics`  
 > 🐍 Projects: `Math tools`, `CLI bots`, `LaTeX auto-generators`, `Data visualizers`
-
-### 🧬 Languages Breakdown
+### 🧬 Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45Clover&repo=REPO_NAME&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45Clover&repo=Python-dumbstuff&layout=compact&theme=tokyonight&bg_color=00000000" />
 </p>
 
 
