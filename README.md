@@ -24,4 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45Clover&repo=Python-dumbstuff&layout=compact&theme=tokyonight&bg_color=00000000" />
 </p>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a6fb17f (Add math notes and more projects)
 

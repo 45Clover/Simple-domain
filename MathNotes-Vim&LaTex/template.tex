@@ -1,0 +1,91 @@
+
+%!TEX program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{tcolorbox}
+\usepackage{lmodern}
+\usepackage{fancyhdr}
+\usepackage{fontspec} % Needed for emoji + Unicode
+\setmainfont{Latin Modern Roman} % or something like DejaVu Serif
+
+\setlength{\headheight}{14pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Math Notes}
+\fancyhead[R]{\today}
+\fancyfoot[C]{\thepage}
+
+\tcbuselibrary{skins, breakable}
+
+% Custom boxes with emojis
+\newtcolorbox{examplebox}[1][]{colback=blue!5!white, colframe=blue!80!black, title=📦 \textbf{Example}, breakable, sharp corners, #1}
+\newtcolorbox{keynotebox}[1][]{colback=yellow!10!white, colframe=orange!80!black, title=📌 \textbf{Key Idea}, breakable, sharp corners, #1}
+\newtcolorbox{funbox}[1][]{colback=green!5!white, colframe=green!60!black, title=🤡 \textbf{Silly Trick}, breakable, sharp corners, #1}
+
+\begin{document}
+
+\section*{Limits}
+
+Here's an intro to limits.
+
+\begin{examplebox}
+Find \( \lim_{x \to 2} x^2 \).  
+Solution: \( \lim_{x \to 2} x^2 = 4 \)
+\end{examplebox}
+
+\begin{keynotebox}
+A limit describes the behavior of a function as it approaches a point.
+\end{keynotebox}
+
+\begin{funbox}
+“Get closer without kissing!” – Think of the limit as approaching, not touching.
+\end{funbox}
+
+\end{document}
+
+\documentclass[11pt]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{tcolorbox}
+\usepackage{lmodern}
+\usepackage{fancyhdr}
+\usepackage{fontspec} % Needed for emoji + Unicode
+\setmainfont{Latin Modern Roman} % or something like DejaVu Serif
+
+\setlength{\headheight}{14pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Math Notes}
+\fancyhead[R]{\today}
+\fancyfoot[C]{\thepage}
+
+\tcbuselibrary{skins, breakable}
+
+% Custom boxes with emojis
+\newtcolorbox{examplebox}[1][]{colback=blue!5!white, colframe=blue!80!black, title=📦 \textbf{Example}, breakable, sharp corners, #1}
+\newtcolorbox{keynotebox}[1][]{colback=yellow!10!white, colframe=orange!80!black, title=📌 \textbf{Key Idea}, breakable, sharp corners, #1}
+\newtcolorbox{funbox}[1][]{colback=green!5!white, colframe=green!60!black, title=🤡 \textbf{Silly Trick}, breakable, sharp corners, #1}
+
+\begin{document}
+
+\section*{Limits}
+
+Here's an intro to limits.
+
+\begin{examplebox}
+Find \( \lim_{x \to 2} x^2 \).  
+Solution: \( \lim_{x \to 2} x^2 = 4 \)
+\end{examplebox}
+
+\begin{keynotebox}
+A limit describes the behavior of a function as it approaches a point.
+\end{keynotebox}
+
+\begin{funbox}
+“Get closer without kissing!” – Think of the limit as approaching, not touching.
+\end{funbox}
+
+\end{document}
+
