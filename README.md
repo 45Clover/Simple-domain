@@ -1,30 +1,40 @@
-# Projects check master!!!!!
-<!-- Cyberpunk Math & Code Repo README -->
-
+<!-- Cool Visitor Count -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=45Clover&color=ff00ff&style=flat-square" alt="repo views" />
+  <img src="https://komarev.com/ghpvc/?username=45Clover&repo=Python-dumbstuff&color=ff00ff&style=flat-square" alt="repo views" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=🧠+MATH+MODULES+UPLOADING...;🐍+PYTHON+PROJECTS+ENGAGED.;📂+WELCOME+TO+THE+DATA+VAULT+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=🚧+UNDER+CONSTRUCTION+%3A+SYNCING+TERMINALS...;🔍+LOOK+INTO+THE+MASTER+BRANCH+FOR+THE+GOOD+STUFF+🚀" />
 </h1>
 
 ---
 
-### 💾 About This Repository
-
-> A fusion of **pure math notes**, exploratory **Python code**, and terminal-driven aesthetics.
->  
-> ✍️ Written by a **student-developer** navigating numbers & networks.  
->  
-> 🧠 Topics: `Calculus`, `Linear Algebra`, `Logic`, `Proofs`, `Statistics`  
-> 🐍 Projects: `Math tools`, `CLI bots`, `LaTeX auto-generators`, `Data visualizers`
-
-### 🧬 Languages Breakdown
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45Clover&repo=REPO_NAME&layout=compact&theme=tokyonight&bg_color=00000000" alt="Top Langs"/>
+  <img src="https://media.giphy.com/media/I8kT3lnDgb1Ko/giphy.gif" width="300" alt="hacker gif" />
 </p>
 
+---
 
+## 🛠️ Heads Up, Runner:
 
+This repo isn’t dead — it's just **cloaked**.  
+The real action's happening in the [`master/`](https://github.com/45Clover/Python-dumbstuff/tree/master) directory.
+
+> Think of this page as the neon-lit alley before the real cyberspace dive.
+
+---
+
+### 📂 What's in the `master/` vault?
+
+- 🧠 **Math tools**  
+- 🐍 **Python scripts**  
+- 🧪 **Experiments**  
+- 🎲 **Simulations & terminal toys**
+
+---
+
+### ⌨️ Quick Dive:
+
+```bash
+git clone https://github.com/45Clover/Python-dumbstuff.git
+cd Python-dumbstuff/master/
