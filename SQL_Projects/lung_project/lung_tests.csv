@@ -1,0 +1,4 @@
+patient_id,test_date,fev1,fvc,pef,spo2,diagnosis
+4,2025-07-20,2.2,3.0,370,94,Asthma
+5,2025-07-20,3.4,4.1,460,98,Healthy
+
